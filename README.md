@@ -1,6 +1,6 @@
 #  EX:8 D-FLIPDLOP-NEGEDGE
 
-#**AIM:**
+## **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
 
