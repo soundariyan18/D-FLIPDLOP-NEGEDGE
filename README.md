@@ -63,10 +63,12 @@ endmodule
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![alt text](rtl.png)
+![image](https://github.com/soundariyan18/D-FLIPDLOP-NEGEDGE/assets/119393307/ca07b655-e485-40e6-b7ab-8792f70d6b9a)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![alt text](timee.png)
+![image](https://github.com/soundariyan18/D-FLIPDLOP-NEGEDGE/assets/119393307/ae1cca07-4c5c-48f9-aeb1-a29b6efc3950)
+
 
 ## **RESULTS**
 
